@@ -2,5 +2,5 @@
 
 ## Developers
 
-Jack Nakisher: jlnakisher@protonmail.com
+Jack Nakisher : jlnakisher@protonmail.com 
 
