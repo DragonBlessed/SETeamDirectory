@@ -2,7 +2,7 @@
 
 ## Developers
 
-* Christian Hatfield: christianvasil72@gmail.com
-* Jack Nakisher: jlnakisher@protonmail.com
-* Petar Bilkic: pzbilkic@gmail.com
-* Jack Roue: jacksonroue@gmail.com
+* Christian Hatfield: [DragonBlessed](https://github.com/DragonBlessed)
+* Jack Nakisher: [jlnakisher](https://github.com/jlnakisher)
+* Petar Bilkic: [pzbilkic](https://github.com/pzbilkic)
+* Jack Roue: [GimmicJR](https://github.com/GimmicJR)
