@@ -10,7 +10,7 @@
 * [QuickCop]()
 * [SideCause]()
 * [SkillStreak]()
-* [SkyTracker]()
+* [SkyTracker](teams/skytracker.md)
 * [Sunlight]()
 
 ## CSCI 430 (Spring 2026):
