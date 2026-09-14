@@ -2,16 +2,16 @@
 
 ## CSCI 430 (Fall 2026):
 * [BetterTicket]()
-* [CampusCuisines]()
+* [CampusCuisines](teams/CampusCuisines.md)
 * [ClassFinder]()
-* [CreditCardMatch]()
+* [CreditCardMatch](teams/CreditCardMatch.md)
 * [MedCheck]()
 * [PrismaticLauncher]()
 * [QuickCop]()
-* [SideCause]()
+* [SideCause](teams/sidecause.md)
 * [SkillStreak]()
 * [SkyTracker](teams/skytracker.md)
-* [Sunlight]()
+* [Sunlight](teams/sunlightBeforeScreentime.md)
 
 ## CSCI 430 (Spring 2026):
 
